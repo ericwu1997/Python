@@ -1,0 +1,36 @@
+If the function does not work, try upgrade the version 
+to python 3.7.4 or above. Thanks. 
+
+Below is the console output of the unit test result
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  323
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  191
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  25
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  11
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  209
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  61
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  445
+
+check prime factor... failed
+bruteforce...         success
+Private Key (d):  187
